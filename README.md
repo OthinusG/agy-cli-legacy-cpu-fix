@@ -43,8 +43,8 @@ Why the built-in auto-updater keeps working: the updater replaces its own execut
 Requirements: x86-64 Linux, `bash`, `curl`, `tar`, `sha512sum`, and `qemu-user` (the script installs it via `apt` if missing and `sudo` is available).
 
 ```bash
-git clone https://github.com/OthinusG/antigravity-cli-legacy-cpu-fix.git
-cd antigravity-cli-legacy-cpu-fix
+git clone https://github.com/OthinusG/agy-cli-legacy-cpu-fix.git
+cd agy-cli-legacy-cpu-fix
 bash install.sh
 ```
 
